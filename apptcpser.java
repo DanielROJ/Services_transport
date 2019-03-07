@@ -23,7 +23,7 @@ import java.util.Scanner;
 
 /**
  * @since 05/03/2019
- * @author German Daniel Rojas 1018.505.981
+ * @author German Daniel 
  * @vesion 1.0
  */
 public class apptcpser {
